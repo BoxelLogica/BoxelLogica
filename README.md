@@ -11,7 +11,7 @@
     * Photography
     * Doctor Who
     * Comics
-* Any pronouns idrc
+* Usually called He/Him pronouns but honestly I don't care
 
 ---
 
