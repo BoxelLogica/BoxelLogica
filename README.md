@@ -4,9 +4,9 @@
 * Brain is special (I'm just that good ik)
 * I do art and photography and stuffs
 * List o' Interests
-        * LittleBigPlanet
-        * Minecraft
-        * Art
-        * Photography
-        * Doctor Who
-        * Comics
+    * LittleBigPlanet
+    * Minecraft
+    * Art
+    * Photography
+    * Doctor Who
+    * Comics
