@@ -1,5 +1,5 @@
 # Big-Boi-Bio
-# This is bio but better #
+## This is bio but better ##
 * I love LittleBigPlanet yipeeee
 * Brain is special (I'm just that good ik)
 * I do art and photography and stuffs
