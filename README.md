@@ -11,7 +11,7 @@
     * Photography
     * Doctor Who
     * Comics
-* Usually called He/Him pronouns but honestly I don't care
+* Usually associated with "He/Him" pronouns but honestly I don't care
 
 ---
 
