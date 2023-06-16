@@ -11,8 +11,6 @@
     * Photography
     * Doctor Who
     * Comics
-* Usually associated with "He/Him" pronouns but honestly I don't care what you use on me
-
 ---
 
 ![Untitled160_20230321001835 (1)](https://user-images.githubusercontent.com/128452230/226541527-9eab24d6-b9aa-48fd-9435-23cf3cc30166.png)
