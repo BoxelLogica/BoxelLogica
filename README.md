@@ -1,4 +1,4 @@
-# Big-Boi-Bio
+# Big-Bio
 ## This is bio but better ##
 ---
 * I love LittleBigPlanet yipeeee
