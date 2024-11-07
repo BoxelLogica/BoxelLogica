@@ -24,6 +24,8 @@
   > Pixel Art<br>
   > Photography<br>
 * Interests
+  > Programming<br>
+  > Game Development<br>
   > Video Games<br>
   > TV Shows/Movies<br>
 * Cool Facts (that probably have no meaning to you)
