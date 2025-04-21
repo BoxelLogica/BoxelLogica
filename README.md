@@ -26,9 +26,11 @@
 * Interests
   > Programming<br>
   > Game Development<br>
+  > Web Development<br>
+  > Software Development<br>
   > Video Games<br>
   > TV Shows/Movies<br>
 * Cool Facts (that probably have no meaning to you)
-  > I am a member and creator of Sunkist's Palace, initially started by MaximusMiller2<br>
-  > I am skilled at ULTRAKILL<br>
+  > I am a member and the primary maintainer of Sunkist's Palace, initially started by MaximusMiller2<br>
+  > Sunkist's Palace 2 ***IS*** being made, just very slowly (have hope and patience)
   > [![Discord Presence](https://lanyard.cnrad.dev/api/565674394249199617?showDisplayName=true)](https://discord.com/users/565674394249199617?showDisplayName=true)
