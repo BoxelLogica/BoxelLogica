@@ -31,6 +31,5 @@
   > Video Games<br>
   > TV Shows/Movies<br>
 * Cool Facts (that probably have no meaning to you)
-  > I am a member and the primary maintainer of Sunkist's Palace, initially started by MaximusMiller2<br>
-  > Sunkist's Palace 2 ***IS*** being made, just very slowly (have hope and patience)
+  > Member of [HazardWare](https://github.com/HazardWare)!<br>
   > [![Discord Presence](https://lanyard.cnrad.dev/api/565674394249199617?showDisplayName=true)](https://discord.com/users/565674394249199617?showDisplayName=true)
